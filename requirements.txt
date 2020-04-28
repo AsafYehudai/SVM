@@ -1,8 +1,13 @@
-matplotlib.pyplot
-mpl_toolkits
-math
-numpy
-pandas
-plotnine
-pandas
-sklearn
+name: python 2.7
+dependencies:
+  - python=2.7
+  - numpy
+  - matplotlib.pyplot
+  - mpl_toolkits
+  - math
+  - numpy
+  - pandas
+  - plotnine
+  - pandas
+  - sklearn
+
